@@ -1,7 +1,8 @@
 # AutomataPython
 This is my project about an automaton in python. I hope you enjoy and understand these concepts with this program.
 
-##Creating the virtual environment in python
+## Creating the virtual environment in python
+
 **To create a virtual environment in python, we use the ** venv ** command**
 `python3 -m venv .venv`
 
@@ -53,6 +54,7 @@ Link your local repository to your GitHub repository:
 
 # Using PyInstaller
 **If you want to make an executable about your python code, do this**
+
 Install **pyinstaller**
 `pip install pyinstaller`
 
