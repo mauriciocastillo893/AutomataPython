@@ -58,7 +58,7 @@ Link your local repository to your GitHub repository:
 Install **pyinstaller**
 `pip install pyinstaller`
 
-Create your executable in the script location of your code, and type the next command line _".pyw"_
+We are creating an executable without showing a console behind your executable using the command line below, type of _".pyw"_
 ### With this one, anyone can try to run your code without having installed python 
 `pyinstaller --onefile -w <nombre_del_archivo.py>`
 
